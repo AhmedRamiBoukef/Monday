@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    background-color: black;
+}
+div.monday {
+    color: white;
+}
+div h1 {
+    font-size: 100px;
+}
+div h3 {
+    color: green;
+    text-align: center;
+    font-size: 80px;
+}
+div {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
