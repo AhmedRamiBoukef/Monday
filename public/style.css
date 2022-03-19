@@ -6,12 +6,10 @@ div.monday {
     color: white;
 }
 div h1 {
-    font-size: 100px;
 }
 div h3 {
     color: green;
     text-align: center;
-    font-size: 80px;
 }
 div {
     position: absolute;
